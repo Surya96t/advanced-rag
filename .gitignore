@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+.venv/
+.mypy_cache/
+.ruff_cache/
+
+# Local settings — may hold secrets from Part 1 onward
+.env
+
+# macOS
+.DS_Store
